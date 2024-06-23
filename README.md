@@ -3,4 +3,4 @@
 
 |Название проекта                     |Направление деятельности   |Используемые инструменты     | Задачи проекта                                                      |
 |:------------------------------------|:--------------------------|:----------------------------|:--------------------------------------------------------------------|
-|[LLM telegram bot with RAG](https://github.com/sx118828/)|`Python developer`, `MLOps`|*telebot*, *beautifulsoup4*, *requests*, *gigachain*, *gigachat*, *chromadb*|На основе русскоязычной большой языковой модели (LLM) разработать telegram-консультанта с возможностью  добавления в контекст запроса дополнительной информации по методу Retrieval-augmented generation (RAG)|
+|[LLM telegram bot with RAG](https://github.com/sx118828/)|`Python developer`, `MLOps`|*telebot*, *beautifulsoup4*, *requests*, *gigachain*, *gigachat*, *chromadb*|На основе русскоязычной большой языковой модели (LLM) разработать telegram-консультанта с возможностью  включения  в контекст запроса дополнительной информации по методу Retrieval-augmented generation (RAG)|
